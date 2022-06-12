@@ -30,17 +30,17 @@ Personalization Principle
 ## Rapid Design Process
 1. Perform an internet search to briefly review articles on writing learning objectives to get instructional ideas.
 2. Brainstorm a scenario and story to help teach the concepts and keep learners engaged.
-3. Decide on software to use to design a prototype (i.e., Articulate Storyline).
+3. Decide on software (Articulate Storyline) to use to design a prototype (Articulate Storyline).
 4. Use a [written storyboard](https://docs.google.com/document/d/1tFzVz7j1jxWmrg24f2iFIdUY7Pc9SxXkhm6MwzE8F-c/edit?usp=sharing) template to plan the prototype's content, graphics, on-screen text, and button. Check the content in Grammarly for spelling and grammar.
 5. Visit Canva to quickly find a slide template and color scheme. Export template and color values to use in the prototype.
 6. Start a new project in Articulate Storyline. Design an eye-catching opening slide that introduces the character, Litzy.
-7. Create and style 1 multiple choice quiz slide—duplicate quiz slide including feedback to use throughout the prototype.
+7. Create and style 1 multiple choice quiz slide. Duplicate the quiz slide, including the answer feedback, to use throughout the prototype.
 8. Choose 2 characters for the prototype and duplicate them on each slide. Change their poses, crop, and resize as needed.
-9. Copy and paste on-screen text from the storyboard slide. Add default animations (e.g., fade and wipe) to text boxes and shapes to quickly add a sense of movement and smoothness.
+9. Copy and paste on-screen text from the storyboard into a slide. Add default animations (e.g., fade and wipe) to text boxes and shapes to quickly add a sense of movement and smoothness.
 10. After creating 1 text-based slide, duplicate the slide and replace the text on each new slide to save on development time.
-11. Record audio directly into Articulate Storyline. Rough edit audio to remove overly distracting elements like taps on the microphone.
+11. Record audio directly into Articulate Storyline. Rough edit audio to remove overly distracting elements like taps on the microphone or sharp breaths.
 12. Time up slide elements with the audio.
-13. Add a slide to ask the learner a question and capture their response to a thought-provoking question. The goal is to stimulate the instructional designer’s previous knowledge on the topic.
-14. Preview the entire project. Fix any typos or errors. Remove the slide that pushes the presentation over the 5 minute mark.
+13. Add a slide to ask the learner a thought-provoking question and capture their response near the beginning of the prototype. The goal is to stimulate the instructional designer’s previous knowledge on the topic.
+14. Preview the entire project. Fix any typos or errors. Remove extraneous slides or content that pushes the presentation over the 5 minute mark.
 15. Publish the prototype. Host the presentation using Git and GitHub Pages.
 
