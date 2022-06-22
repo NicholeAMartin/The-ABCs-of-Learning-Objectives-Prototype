@@ -30,7 +30,7 @@ Personalization Principle
 ## Rapid Design Process
 1. Perform an internet search to briefly review articles on writing learning objectives to get instructional ideas.
 2. Brainstorm a scenario and story to help teach the concepts and keep learners engaged.
-3. Decide on software (Articulate Storyline) to use to design a prototype (Articulate Storyline).
+3. Decide on software (Articulate Storyline) to use to design a prototype.
 4. Use a [written storyboard](https://docs.google.com/document/d/1tFzVz7j1jxWmrg24f2iFIdUY7Pc9SxXkhm6MwzE8F-c/edit?usp=sharing) template to plan the prototype's content, graphics, on-screen text, and button. Check the content in Grammarly for spelling and grammar.
 5. Visit Canva to quickly find a slide template and color scheme. Export template and color values to use in the prototype.
 6. Start a new project in Articulate Storyline. Design an eye-catching opening slide that introduces the character, Litzy.
